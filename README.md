@@ -1,10 +1,25 @@
-### Hi, I'm Everton Lopes :grin:
+### Hi, I'm Everton Lopes and passionate about knowledge :grin:
+> I love God, family, programing, books, finances etc.
 
-Under construction
+**GitHub profile in Under construction**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonLopes)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonLopes&show_icons=true&theme=tokyonight)
 
+- Visit: ![](https://visitor-badge.laobi.icu/badge?page_id=Evertonlopes.EvertonLopes)
+- Followrs: [![Github](https://img.shields.io/github/followers/EvertonLopes?label=Follow&style=social)](https://github.com/EvertonLopes)
 - 📫 How to reach me: [My LinkedIn](linkedin.com/in/everton-lopes-costa)
+- 🌱 I’m currently learning HTML, CSS and Javascript
+
+
+
+
+#### 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonLopes&theme=tokyonight)
 
 <!--
 **EvertonLopes/EvertonLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
