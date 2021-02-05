@@ -10,7 +10,7 @@
 - Visit: ![](https://visitor-badge.laobi.icu/badge?page_id=Evertonlopes.EvertonLopes)
 - Followrs: [![Github](https://img.shields.io/github/followers/EvertonLopes?label=Follow&style=social)](https://github.com/EvertonLopes)
 
-- How to reach me: [My LinkedIn](linkedin.com/in/everton-lopes-costa)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/everton-lopes-costa)
 - I’m currently learning HTML, CSS and Javascript
 
 
