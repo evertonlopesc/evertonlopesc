@@ -1,5 +1,3 @@
-## **GitHub profile in Under construction**
-
 ## Hi, I'm Everton Lopes :grin:
 > God in first place.
 
