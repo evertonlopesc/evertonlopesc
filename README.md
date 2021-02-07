@@ -1,6 +1,9 @@
 ## Hi, I'm Everton Lopes :grin:
 > God in first place.
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Evertonlopes.EvertonLopes)
+[![Github](https://img.shields.io/github/followers/EvertonLopes?label=Follow&style=social)](https://github.com/EvertonLopes)
+
 How to reach me: [LinkedIn](https://www.linkedin.com/in/everton-lopes-costa)
 
 ### About me
@@ -24,10 +27,6 @@ I want to learn backend initially, then learn frontend and mobile devices.
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonLopes&show_icons=true&theme=tokyonight)
-
-- Visit: ![](https://visitor-badge.laobi.icu/badge?page_id=Evertonlopes.EvertonLopes)
-
-- Followrs: [![Github](https://img.shields.io/github/followers/EvertonLopes?label=Follow&style=social)](https://github.com/EvertonLopes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonLopes&theme=tokyonight)
 
