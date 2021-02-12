@@ -30,6 +30,8 @@ I want to learn backend initially, then learn frontend and mobile devices.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonLopes&theme=tokyonight)
 
+![Top Langs two](https://camo.githubusercontent.com/a3c8ec85eb305528117e05d71373d562f63e01d335768ee954ca75d059509ebb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6461726b)
+
 <!--
 **EvertonLopes/EvertonLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
