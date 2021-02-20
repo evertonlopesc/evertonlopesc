@@ -1,4 +1,4 @@
-## Hi, I'm Everton Lopes :grin:
+## Hi, I'm Everton :grin:
 > God in first place.
 
 #### About me:
