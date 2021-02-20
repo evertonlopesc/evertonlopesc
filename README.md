@@ -1,16 +1,13 @@
 ## Hi, I'm Everton Lopes :grin:
 > God in first place.
 
-How to reach me:  
-<a href="https://www.linkedin.com/in/everton-lopes-costa/" rel="nofollow">
-  <img src="./img/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px">
-</a>
-
 #### About me:
 <p>I'm a web developer.</p>
 <p>
   I want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable.
 </p>
+
+How to reach me: [LinkedIn]("https://www.linkedin.com/in/everton-lopes-costa/)
 
 <hr></hr>
 
