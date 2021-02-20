@@ -1,8 +1,9 @@
 ## Hi, I'm Everton Lopes :grin:
 > God in first place.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Evertonlopes.EvertonLopes)
-[![Github](https://img.shields.io/github/followers/EvertonLopes?label=Follow&style=social)](https://github.com/EvertonLopes)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EvertonLopes/EvertonLopes?logo=Github&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/EvertonLopes?logo=github&style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/EvertonLopes/EvertonLopes?logo=github&style=flat-square)
 
 How to reach me: [LinkedIn](https://www.linkedin.com/in/everton-lopes-costa)
 
@@ -27,6 +28,16 @@ I want to learn backend initially, then learn frontend and mobile devices.
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EvertonLopes&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonLopes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonLopes&theme=tokyonight)
+
+
+
+
+<a href="https://github.com/EvertonLopes/EvertonLopes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EvertonLopes&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://everton-lopes.vercel.app/api/pin/?username=EvertonLopes&repo=convoychat" />
+</a>
 
