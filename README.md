@@ -2,7 +2,9 @@
 > God in first place.
 
 How to reach me:  
-<img src="./img/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px">[](https://www.linkedin.com/in/everton-lopes-costa)
+<a href="https://www.linkedin.com/in/everton-lopes-costa/" rel="nofollow">
+  <img src="./img/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px">
+</a>
 
 ### About me
 I'm Web developer and passionate about knowledge.
