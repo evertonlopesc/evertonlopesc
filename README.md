@@ -26,4 +26,4 @@ I want to learn backend initially, then learn frontend and mobile devices.
 <img src="./img/typescript.png" alt="Typescript" style="vertical-align:top; margin:4px">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonlopesc&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonlopesc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
