@@ -7,7 +7,7 @@
   I want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable.
 </p>
 
-How to reach me: [LinkedIn]("https://www.linkedin.com/in/everton-lopes-costa/)
+How to reach me: https://www.linkedin.com/in/everton-lopes-costa
 
 <hr></hr>
 
