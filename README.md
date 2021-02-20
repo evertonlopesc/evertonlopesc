@@ -5,7 +5,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/EvertonLopes?logo=github&style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/EvertonLopes/EvertonLopes?logo=github&style=flat-square)
 
-How to reach me:  <img src="./img/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px">[LinkedIn](https://www.linkedin.com/in/everton-lopes-costa)
+How to reach me:  
+<img src="./img/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:4px">[](https://www.linkedin.com/in/everton-lopes-costa)
 
 ### About me
 I'm Web developer and passionate about knowledge.
