@@ -14,18 +14,18 @@ Today I'm working in the project: **nlwapi**
 <hr></hr>
 
 #### :green_book: I’m currently learning:
-<p>
-  <img src="./img/html.png" alt="HTML" style="vertical-align:top; margin:4px">
-  <img src="./img/css.png" alt="CSS" style="vertical-align:top; margin:4px">
-  <img src="./img/javascript.png" alt="Javascript" style="vertical-align:top; margin:4px">
-  <img src="./img/git.png" alt="Git" style="vertical-align:top; margin:4px">
-</p>
+![](https://img.shields.io/badge/_-HTML5-critical?style=flat-square)
+![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square)
+![](https://img.shields.io/badge/_-Javascript-yellow?style=flat-square)
+![](https://img.shields.io/badge/_-Git-red?style=flat-square)
+
+___
 
 #### :blue_book: Next step of studies:
-<p>
-  <img src="./img/nodejs.png" alt="nodejs.png" style="vertical-align:top; margin:4px">
-  <img src="./img/react.png" alt="React" style="vertical-align:top; margin:4px">
-  <img src="./img/typescript.png" alt="Typescript" style="vertical-align:top; margin:4px">
-</p>
+![](https://img.shields.io/badge/_-Node.JS-brightgreen?style=flat-square)
+![](https://img.shields.io/badge/_-React.JS-blue?style=flat-square)
+![](https://img.shields.io/badge/_-Typescript-informational?style=flat-square)
+
+___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonlopesc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
