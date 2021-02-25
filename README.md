@@ -3,7 +3,7 @@
 
 ### About me:
 I'm a web developer, want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable.
-___
+
 
 ### I’m currently learning:
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
@@ -16,7 +16,7 @@ ___
 ![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
 ![](https://img.shields.io/badge/_-KDE_Neon-blueviolet?style=flat-square&logo=KDE&logoColor=white)
 
-___
+
 ### Today I'm working in the project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=nlwapi&theme=midnight-purple)](https://github.com/evertonlopesc/nlwapi)
 
