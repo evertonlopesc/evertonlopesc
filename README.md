@@ -6,10 +6,13 @@ I'm a web developer, want to work in the area and grow professionally, I like to
 
 
 ### I’m currently learning:
+![](https://img.shields.io/badge/_-Code-black?style=flat-square)
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/_-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/_-Node.JS-blue?style=flat-square&logo=node.js&logoColor=white)
+
+![](https://img.shields.io/badge/_-Tools-black?style=flat-square)
 ![](https://img.shields.io/badge/_-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/_-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
