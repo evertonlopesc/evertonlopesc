@@ -14,6 +14,7 @@ ___
 ![](https://img.shields.io/badge/_-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
+![](https://img.shields.io/badge/_-KDE_Neon-blueviolet?style=flat-square&logo=KDE&logoColor=white)
 
 ___
 ### Today I'm working in the project:
