@@ -16,7 +16,7 @@ ___
 ![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
 
 ___
-### Today I'm working in the project: **nlwapi**
+### Today I'm working in the project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=nlwapi&theme=dark)](https://github.com/evertonlopesc/nlwapi)
 
 ### Where to find me:
