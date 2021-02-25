@@ -2,8 +2,7 @@
 *God in first place.*
 
 ### About me:
-I'm a web developer, want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable. Today I am really like of Shell and want learn about Vim and Tmux for begin.
-
+I'm a web developer, want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable.
 ___
 
 ### I’m currently learning:
