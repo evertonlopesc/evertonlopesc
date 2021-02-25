@@ -1,12 +1,12 @@
 # Hi, I'm Everton :grin:
 *God in first place.*
 
-### :raising_hand: About me:
+### About me:
 I'm a web developer, want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable. Today I am really like of Shell and want learn about Vim and Tmux for begin.
 
 ___
 
-### :green_book: I’m currently learning:
+### I’m currently learning:
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/_-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
