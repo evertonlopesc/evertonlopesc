@@ -9,6 +9,7 @@ ___
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/_-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/_-Node.JS-blueviolet?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/_-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
 
