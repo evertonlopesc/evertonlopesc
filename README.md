@@ -17,7 +17,7 @@ ___
 
 ___
 ### Today I'm working in the project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=nlwapi&theme=dark)](https://github.com/evertonlopesc/nlwapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=nlwapi&theme=midnight-purple)](https://github.com/evertonlopesc/nlwapi)
 
 ### Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
