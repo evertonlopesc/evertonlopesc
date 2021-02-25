@@ -14,15 +14,15 @@ Today I'm working in the project: **nlwapi**
 ___
 
 #### :green_book: I’m currently learning:
-![](https://img.shields.io/badge/_-HTML5-critical?style=flat-square&logo=html5&logoColor=black)
-![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=black)
-![](https://img.shields.io/badge/_-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/_-Git-red?style=flat-square&logo=git&logoColor=black)
+![](https://img.shields.io/badge/_-HTML5-critical?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/_-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/_-Git-red?style=flat-square&logo=git&logoColor=white)
 
 #### :blue_book: Next step of studies:
-![](https://img.shields.io/badge/_-Node.JS-brightgreen?style=flat-square&logo=node.js&logoColor=black)
-![](https://img.shields.io/badge/_-React.JS-blue?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/_-Typescript-informational?style=flat-square&logo=typescript&logoColor=black)
+![](https://img.shields.io/badge/_-Node.JS-brightgreen?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/_-React.JS-blue?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/_-Typescript-informational?style=flat-square&logo=typescript&logoColor=white)
 
 ___
 
