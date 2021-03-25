@@ -17,7 +17,7 @@ I'm a web developer, want to work in the area and grow professionally, I like to
 ![](https://img.shields.io/badge/_-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
-![](https://img.shields.io/badge/_-KDE_Neon-blueviolet?style=flat-square&logo=KDE&logoColor=white)
+![](https://img.shields.io/badge/_-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu&logoColor=white)
 
 
 ### Today I'm working in the project:
