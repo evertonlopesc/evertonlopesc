@@ -26,3 +26,4 @@ I'm a web developer, want to work in the area and grow professionally, I like to
 
 ### Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+[![Instagram Badge](https://img.shields.io/badge/-EvertonLopes-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/everton.locos/)](https://www.instagram.com/everton.locos/)
