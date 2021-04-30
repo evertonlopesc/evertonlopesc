@@ -2,7 +2,9 @@
 *God in first place.*
 
 ### About me:
-I'm a web developer, want to work in the area and grow professionally, I like to learn and adapt. I am an introvert type at first and funny when I feel comfortable.
+I am a simple person, with principles and I love to learn. I have training in Analysis and Systems Development, and after completing the course, I started to create a life plan. In January 2021 I achieved my first goal, now I am moving towards my second step.
+
+I am studying the Javascript and Ruby languages focused on backend. I will endeavor to enter the area and thus achieve one more goal.
 
 
 ### I’m currently learning:
