@@ -26,6 +26,7 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 
 ### Today I'm working in the project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=js-datastruture&theme=midnight-purple)](https://github.com/evertonlopesc/js-datastruture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=ruby-puro&theme=midnight-purple)](https://github.com/evertonlopesc/ruby-puro)
 
 ### Last completed project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=chat-support&theme=midnight-purple)](https://github.com/evertonlopesc/chat-support)
