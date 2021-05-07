@@ -1,13 +1,13 @@
 # Hi, I'm Everton :grin:
 *God in first place.*
 
-### About me:
+## About me:
 I am a simple person, with principles and I love to learn. I have training in Analysis and Systems Development, and after completing the course, I started to create a life plan. In January 2021 I achieved my first goal, now I am moving towards my second step.
 
 I am studying the Javascript and Ruby languages focused on backend. I will endeavor to enter the area and thus achieve one more goal.
 
 
-### I’m currently learning:
+## I’m currently learning:
 ![](https://img.shields.io/badge/_-Code-black?style=flat-square)
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
@@ -24,13 +24,13 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 ![](https://img.shields.io/badge/_-Linux-blueviolet?style=flat-square&logo=Linux&logoColor=white)
 
 
-### Today I'm working in the project:
+## Today I'm working in the project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=js-datastruture&theme=midnight-purple)](https://github.com/evertonlopesc/js-datastruture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=ruby-puro&theme=midnight-purple)](https://github.com/evertonlopesc/ruby-puro)
 
-### Last completed project:
+## Last completed project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=chat-support&theme=midnight-purple)](https://github.com/evertonlopesc/chat-support)
 
-### Where to find me:
+## Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Instagram Badge](https://img.shields.io/badge/-EvertonLopes-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/everton.locos/)](https://www.instagram.com/everton.locos/)
