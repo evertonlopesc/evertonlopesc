@@ -9,19 +9,19 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 
 ## I’m currently learning:
 ![](https://img.shields.io/badge/_-Code-black?style=flat-square)
+![](https://img.shields.io/badge/_-Ruby-blue?style=flat-square&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/_-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/_-Node.JS-blue?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/_-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/_-Ruby-blue?style=flat-square&logo=ruby&logoColor=white)
 
 ![](https://img.shields.io/badge/_-Tools-black?style=flat-square)
+![](https://img.shields.io/badge/_-Linux-blueviolet?style=flat-square&logo=Linux&logoColor=white)
 ![](https://img.shields.io/badge/_-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/_-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
-![](https://img.shields.io/badge/_-Linux-blueviolet?style=flat-square&logo=Linux&logoColor=white)
 
 
 ## Today I'm working in the project:
