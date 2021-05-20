@@ -28,9 +28,6 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=js-datastruture&theme=midnight-purple)](https://github.com/evertonlopesc/js-datastruture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=ruby-puro&theme=midnight-purple)](https://github.com/evertonlopesc/ruby-puro)
 
-## Last completed project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=chat-support&theme=midnight-purple)](https://github.com/evertonlopesc/chat-support)
-
 ## Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Instagram Badge](https://img.shields.io/badge/-EvertonLopes-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/everton.locos/)](https://www.instagram.com/everton.locos/)
