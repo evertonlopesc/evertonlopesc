@@ -23,6 +23,8 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
 
+## Main project:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=Ruby-Roadmap&theme=midnight-purple)](https://github.com/evertonlopesc/Ruby-Roadmap)
 
 ## Today I'm working in the project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=URI_Judge_ever&theme=midnight-purple)](https://github.com/evertonlopesc/URI_Judge_ever)
