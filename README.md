@@ -26,11 +26,6 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 ## Main project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=Ruby-Roadmap&theme=midnight-purple)](https://github.com/evertonlopesc/Ruby-Roadmap)
 
-## Today I'm working in the project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=URI_Judge_ever&theme=midnight-purple)](https://github.com/evertonlopesc/URI_Judge_ever)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=eBlog&theme=midnight-purple)](https://github.com/evertonlopesc/eBlog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=bookstore&theme=midnight-purple)](https://github.com/evertonlopesc/bookstore)
-
 ## Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Instagram Badge](https://img.shields.io/badge/-EvertonLopes-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/everton.locos/)](https://www.instagram.com/everton.locos/)
