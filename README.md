@@ -8,22 +8,22 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 
 
 ## I’m currently learning:
-![](https://img.shields.io/badge/_-Code-black?style=flat-square)
-![](https://img.shields.io/badge/_-Ruby-blue?style=flat-square&logo=ruby&logoColor=white)
-![](https://img.shields.io/badge/_-Rails-blue?style=flat-square&logo=rubyonrails&logoColor=white)
-![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/_-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/_-Node.JS-blue?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/_-Typescript-blue?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/_-Code-black?style=for-the-badge)
+![](https://img.shields.io/badge/_-Ruby-blue?style=for-the-badge&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/_-Rails-blue?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![](https://img.shields.io/badge/_-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/_-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/_-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/_-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/_-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://img.shields.io/badge/_-Tools-black?style=flat-square)
-![](https://img.shields.io/badge/_-Linux-blueviolet?style=flat-square&logo=Linux&logoColor=white)
-![](https://img.shields.io/badge/_-Manjaro-blueviolet?style=flat-square&logo=manjaro&logoColor=white)
-![](https://img.shields.io/badge/_-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/_-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/_-Vim-blueviolet?style=flat-square&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/_-Tmux-blueviolet?style=flat-square&logo=tmux&logoColor=white)
+![](https://img.shields.io/badge/_-Tools-black?style=for-the-badge)
+![](https://img.shields.io/badge/_-Linux-blueviolet?style=for-the-badge&logo=Linux&logoColor=white)
+![](https://img.shields.io/badge/_-Manjaro-blueviolet?style=for-the-badge&logo=manjaro&logoColor=white)
+![](https://img.shields.io/badge/_-Git-blueviolet?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/_-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/_-Vim-blueviolet?style=for-the-badge&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/_-Tmux-blueviolet?style=for-the-badge&logo=tmux&logoColor=white)
 
 ## Main project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=Ruby-Roadmap&theme=midnight-purple)](https://github.com/evertonlopesc/Ruby-Roadmap)
