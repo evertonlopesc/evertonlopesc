@@ -10,6 +10,7 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 ## I’m currently learning:
 ![](https://img.shields.io/badge/_-Code-black?style=flat-square)
 ![](https://img.shields.io/badge/_-Ruby-blue?style=flat-square&logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/_-Rails-blue?style=flat-square&logo=rubyonrails&logoColor=white)
 ![](https://img.shields.io/badge/_-HTML5-blue?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/_-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/_-Javascript-blue?style=flat-square&logo=javascript&logoColor=white)
