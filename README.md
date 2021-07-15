@@ -19,7 +19,6 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 
 ![](https://img.shields.io/badge/_-Tools-black?style=for-the-badge)
 ![](https://img.shields.io/badge/_-Linux-blueviolet?style=for-the-badge&logo=Linux&logoColor=white)
-![](https://img.shields.io/badge/_-Manjaro-blueviolet?style=for-the-badge&logo=manjaro&logoColor=white)
 ![](https://img.shields.io/badge/_-Git-blueviolet?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/_-VSCode-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/_-Vim-blueviolet?style=for-the-badge&logo=vim&logoColor=white)
