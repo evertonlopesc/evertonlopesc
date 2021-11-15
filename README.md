@@ -16,6 +16,7 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 ![](https://img.shields.io/badge/_-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/_-Node.JS-blue?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/_-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/_-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![](https://img.shields.io/badge/_-Tools-black?style=for-the-badge)
 ![](https://img.shields.io/badge/_-Linux-blueviolet?style=for-the-badge&logo=Linux&logoColor=white)
