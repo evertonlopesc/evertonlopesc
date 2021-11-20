@@ -27,7 +27,7 @@ I am studying the Javascript and Ruby languages focused on backend. I will endea
 
 ## Mains projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=Ruby-Roadmap&theme=midnight-purple)](https://github.com/evertonlopesc/Ruby-Roadmap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=eBanks&theme=midnight-purple)](https://github.com/evertonlopesc/eBanks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=eTwitter&theme=midnight-purple)](https://github.com/evertonlopesc/eTwitter)
 
 ## Where to find me:
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
