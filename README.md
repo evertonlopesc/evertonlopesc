@@ -7,6 +7,17 @@ I am a simple person, with principles and I love to learn. I have training in An
 I am studying the Javascript and Ruby languages focused on backend. I will endeavor to enter the area and thus achieve one more goal.
 
 
+<i class="devicon-ruby-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="48" height="48" />
+
+
+
 ## I’m currently learning:
 ![](https://img.shields.io/badge/_-Code-black?style=for-the-badge)
 ![](https://img.shields.io/badge/_-Ruby-blue?style=for-the-badge&logo=ruby&logoColor=white)
