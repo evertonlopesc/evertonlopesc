@@ -4,7 +4,6 @@
 *God in first place.*
 
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
-[![Instagram Badge](https://img.shields.io/badge/-EvertonLopes-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/everton.locos/)](https://www.instagram.com/everton.locos/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonlopesc&layout=compact)](https://github.com/evertonlopesc/github-readme-stats)
   
