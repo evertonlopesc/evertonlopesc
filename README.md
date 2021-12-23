@@ -30,6 +30,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Neovim-blue?style=for-the-badge&logo=vim&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Tmux-blue?style=for-the-badge&logo=tmux&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+[![Linkedin Badge](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonlopesc&layout=compact)](https://github.com/evertonlopesc/github-readme-stats)
