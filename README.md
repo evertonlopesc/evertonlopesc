@@ -19,6 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Versionament-purple?style=for-the-badge&logo=backend&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=github&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+[![Linkedin Badge](https://img.shields.io/badge/-Gitlab-blue?style=for-the-badge&logo=gitlab&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Database-purple?style=for-the-badge&logo=backend&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
