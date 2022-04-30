@@ -9,12 +9,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ruby-blue?style=for-the-badge&logo=ruby&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Rails-blue?style=for-the-badge&logo=rubyonrails&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 
-[![Linkedin Badge](https://img.shields.io/badge/-FronEnd-purple?style=for-the-badge&logo=backend&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+[![Linkedin Badge](https://img.shields.io/badge/-FrontEnd-purple?style=for-the-badge&logo=backend&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
-[![Linkedin Badge](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+[![Linkedin Badge](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Test-purple?style=for-the-badge&logo=backend&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
+[![Linkedin Badge](https://img.shields.io/badge/-RSpec-blue?style=for-the-badge&logo=rubyonrails&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Versionament-purple?style=for-the-badge&logo=backend&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 [![Linkedin Badge](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
