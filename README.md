@@ -42,4 +42,3 @@
 
 ## Mains projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=Ruby-Roadmap)](https://github.com/evertonlopesc/Ruby-Roadmap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evertonlopesc&repo=eTwitter)](https://github.com/evertonlopesc/eTwitter)
