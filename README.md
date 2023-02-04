@@ -1,6 +1,5 @@
 <i class="devicon-ruby-plain-wordmark colored"></i>
 
-# Hi, I'm Everton :grin:
 *God in first place.*
 
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
