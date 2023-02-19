@@ -6,12 +6,15 @@
 
 ![](https://img.shields.io/badge/-BackEnd-purple?style=for-the-badge&logo=backend&logoColor=white&)
 ![](https://img.shields.io/badge/-Ruby-blue?style=for-the-badge&logo=ruby&logoColor=white&)
+![](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=lua&logoColor=white&)
 
 ![](https://img.shields.io/badge/-FrontEnd-purple?style=for-the-badge&logo=backend&logoColor=white&)
 ![](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&)
 ![](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&)
-![](https://img.shields.io/badge/-Rails-blue?style=for-the-badge&logo=rubyonrails&logoColor=white&)
 ![](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&)
+
+![](https://img.shields.io/badge/-Frameworks-purple?style=for-the-badge&logo=backend&logoColor=white&)
+![](https://img.shields.io/badge/-Rails-blue?style=for-the-badge&logo=rubyonrails&logoColor=white&)
 ![](https://img.shields.io/badge/-Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&)
 ![](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white&)
 
