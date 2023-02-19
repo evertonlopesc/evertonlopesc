@@ -4,9 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-EvertonLopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/everton-lopes-costa)](https://www.linkedin.com/in/everton-lopes-costa)
 
-![](https://img.shields.io/badge/-BackEnd-purple?style=for-the-badge&logo=backend&logoColor=white&)
+![](https://img.shields.io/badge/-Language-purple?style=for-the-badge&logo=backend&logoColor=white&)
 ![](https://img.shields.io/badge/-Ruby-blue?style=for-the-badge&logo=ruby&logoColor=white&)
 ![](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=lua&logoColor=white&)
+![](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=white&)
 
 ![](https://img.shields.io/badge/-FrontEnd-purple?style=for-the-badge&logo=backend&logoColor=white&)
 ![](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&)
@@ -37,9 +38,6 @@
 ![](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&)
 ![](https://img.shields.io/badge/-Tmux-blue?style=for-the-badge&logo=tmux&logoColor=white&)
 ![](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white&)
-
-
-
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonlopesc&layout=compact)](https://github.com/evertonlopesc/github-readme-stats)
